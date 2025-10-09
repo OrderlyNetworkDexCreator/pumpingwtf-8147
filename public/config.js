@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Pumping WTF",
   "VITE_SEO_SITE_DESCRIPTION": "Trade perps with next to no fees",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/pumpingwtf-8147/",
+  "VITE_SEO_SITE_URL": "https://pumping.wtf",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
